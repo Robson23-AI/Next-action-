@@ -75,3 +75,10 @@ MIT License
 ---
 
 > Created with 💪 by Robert – keeping ticket flow smooth and agents on fire 🔥
+
+<p align="center">
+  <a href="https://github.com/Robson23-AI/Next-action-/releases/latest">
+    <img src="https://img.shields.io/badge/Download-EXE-green?style=for-the-badge&logo=windows" alt="Download EXE">
+  </a>
+</p>
+
