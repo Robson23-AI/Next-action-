@@ -2,6 +2,11 @@
   <img src="nx action.png" alt="Next Action Tool Logo" width="200"/>
 </p>
 
+<p align="center">
+  <img src="screenshot.png" alt="App Screenshot" width="600"/>
+</p>
+
+
 # Next Action Tool
 
 **Next Action Tool** is a Python-based desktop application designed to streamline IT task tracking and reminders. Built with `customtkinter`, the app integrates Excel, Microsoft Teams, and Outlook to keep agents on track with their ticket responsibilities.
