@@ -1,0 +1,31 @@
+# 💻 Python – śmieciowe pliki kompilatora
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 📦 Pliki środowiska virtualenv (jeśli kiedyś dodasz)
+env/
+venv/
+.venv/
+
+# 🧱 Pliki wykonywalne – apka jako .exe
+*.exe
+
+# 🧾 Dane testowe – Excel z ticketami
+*.xlsx
+
+# 📑 Pliki tymczasowe/backup
+*.bak
+*.log
+*.tmp
+
+# ⚙️ VS Code config (jeśli używasz)
+.vscode/
+
+# 🔐 (opcjonalnie) Dane konfiguracyjne – jak kiedyś dodasz np. webhooki
+config.json
+settings.json
+
+# 📸 Obrazki podglądowe (np. screeny do README, jeśli nie chcesz ich śledzić)
+preview.png
+screenshots/
