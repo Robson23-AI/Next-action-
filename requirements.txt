@@ -1,0 +1,12 @@
+# UI framework for a modern interface
+customtkinter
+
+# Reading Excel files
+openpyxl
+
+# Sending messages via Teams webhook
+requests
+
+# Needed only if using Outlook integration with win32com.client
+# If you're using smtplib instead, this is not required
+pywin32
